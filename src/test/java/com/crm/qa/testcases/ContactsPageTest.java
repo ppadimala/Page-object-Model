@@ -52,6 +52,7 @@ public class ContactsPageTest extends TestBase{
 		TestUtil.runTimeInfo("error", "login successful");
 		testUtil.switchToFrame();
 		contactsPage = homePage.clickOnContactsLink();
+		//This example is for testing git
 	}
 	
 	@Test(priority=1)
