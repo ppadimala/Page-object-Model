@@ -53,6 +53,7 @@ public class ContactsPageTest extends TestBase{
 		testUtil.switchToFrame();
 		contactsPage = homePage.clickOnContactsLink();
 		//This example is for testing git
+		// This is another exsample for testing 
 	}
 	
 	@Test(priority=1)
